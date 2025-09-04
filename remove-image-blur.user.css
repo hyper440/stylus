@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name           AI-Studio-Gruvbox-Light
+@namespace      github.com/openstyles/stylus
+@version        1.0.2
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+
 img {
     filter: none !important;
 }
