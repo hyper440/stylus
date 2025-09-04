@@ -1,10 +1,11 @@
 /* ==UserStyle==
-@name         Remove Image Blur
-@namespace    github.com/openstyles/stylus
-@version      1.0.0
-@description  Removes blur filters from all images
-@author       You
-@license      unlicense
+@name        Remove Image Blur
+@namespace   github.com/openstyles/stylus
+@version     1.0.0
+@description Removes blur filters from all images
+@author      You
+@license     unlicense
+@preprocessor default
 ==/UserStyle== */
 
 img {
