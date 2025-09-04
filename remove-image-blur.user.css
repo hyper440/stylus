@@ -6,6 +6,12 @@
 @author         hyper440
 ==/UserStyle== */
 
+
+@-moz-document regexp(".*") {
+    /* Your code goes here. */
 img {
     filter: none !important;
 }
+
+}
+
