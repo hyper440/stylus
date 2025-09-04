@@ -1,17 +1,12 @@
 /* ==UserStyle==
-@name           remove image blur
-@namespace      github.com/openstyles/stylus
-@version        1.0.0
-@description    A new userstyle
-@author         hyper440
+@name         Remove Image Blur
+@namespace    github.com/openstyles/stylus
+@version      1.0.0
+@description  Removes blur filters from all images
+@author       You
+@license      unlicense
 ==/UserStyle== */
 
-
-@-moz-document regexp(".*") {
-    /* Your code goes here. */
 img {
     filter: none !important;
 }
-
-}
-
